@@ -16,6 +16,7 @@ gem "pygments.rb", :git => "https://github.com/gitlabhq/pygments.rb.git",     :r
 gem 'yaml_db',     :git => "https://github.com/gitlabhq/yaml_db.git"
 gem "linguist", "~> 1.0.0", :git => "https://github.com/gitlabhq/linguist.git"
 
+gem "json", "1.6.1"
 gem "stamp"
 gem "kaminari"
 gem "haml-rails"
